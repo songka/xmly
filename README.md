@@ -19,13 +19,8 @@
 
 
 
-### 邀请任务
-[注册链接直达](https://service-6q5z0csv-1301215769.bj.apigw.tencentcs.com/release/xmly1) (手机号注册)    
-或者扫码下载
-<p align="center">
-  <img src="https://i.loli.net/2020/12/31/stKVJTUcvBkbl74.png" alt="邀请码" width='50%' height='50%'/>
 
-如果你的手机以及手机号之前没有注册过喜马拉雅的话，可以帮我完成一个邀请任务，感谢。
+
 
 ### 账号注册以及风控
 1、使用**不同的手机设备**进行注册、刚注册的账号**不要退出**  
@@ -42,10 +37,6 @@
 
 
 
-### 赞赏码(开发不易,请作者喝杯奶茶)
-
-<p align="center">
-  <img src="https://i.loli.net/2020/12/31/H8hKUwfAn1sacpk.jpg" alt="打赏" width='50%' height='50%'/>
 
 ### 运行方案
 
